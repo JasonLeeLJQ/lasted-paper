@@ -7,4 +7,6 @@
 
 @：将来准备阅读的
 
-Segment and Conflict Aware Page Allocation and Migration2017：是基于DRAM cache架构的。
+Segment and Conflict Aware Page Allocation and Migration2017：是基于DRAM cache架构。
+
+其余的论文都是基于DRAM & NVM 并行架构。
